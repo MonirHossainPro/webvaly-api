@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Max - HTML Template",
+		"price": 0,
+		"rating": 4,
+		"numRating": 4,
+		"sales": 2,
+		"category": "Site Template"
+	},
+
+	{
+		"name": "Max - HTML Template",
+		"price": 0,
+		"rating": 4,
+		"numRating": 4,
+		"sales": 2,
+		"category": "React JS"
+	},
+	{
+		"name": "Max - HTML Template",
+		"price": 0,
+		"rating": 4,
+		"numRating": 4,
+		"sales": 2,
+		"category": "WordPress"
+	},
+	{
+		"name": "Max - HTML Template",
+		"price": 0,
+		"rating": 4,
+		"numRating": 4,
+		"sales": 2,
+		"category": "MERN Stack"
+	},
+	{
+		"name": "Max - HTML Template",
+		"price": 0,
+		"rating": 4,
+		"numRating": 4,
+		"sales": 2,
+		"category": "React JS"
+	}
+]

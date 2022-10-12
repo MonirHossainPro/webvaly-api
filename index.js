@@ -13,11 +13,11 @@ const errorMiddleware = require('./middleware/error-handler');
 // middleware
 app.use(express.json());
 
+app.use('/api/v1/themes', themeRouter);
+
 app.use('/', (req, res) => {
 	res.send('Webvaly API');
 });
-
-app.use('/api/v1/themes', themeRouter);
 
 app.use(notFoundMiddleware);
 app.use(errorMiddleware);
